@@ -1,2 +1,2 @@
 # perkuliahan-semester-1
-Repository tugas
+Repository tugas Pertemuan 1-14
